@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "fontlibc.h": "c",
+        "getcsc.h": "c",
+        "bandwithcalculator.h": "c"
+    }
+}
